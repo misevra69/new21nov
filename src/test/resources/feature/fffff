@@ -1,0 +1,9 @@
+@ST_713610565
+Feature: qwerty
+
+@SC_722729697
+Scenario: 
+Given I created new story
+Then smth happened
+
+
