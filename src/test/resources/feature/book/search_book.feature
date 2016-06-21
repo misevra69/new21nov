@@ -15,7 +15,7 @@ And today is 2015-11-18
 @SC_678326609
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
-And today is 2015-11-18
+And today is 2016-06-21
 
 
 @SC_658819460
