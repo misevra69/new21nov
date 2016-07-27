@@ -10,18 +10,15 @@ Scenario:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-
 @SC_678326609
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-06-21
 
-
 @SC_658819460
 Scenario: Check update from GIT
 Given I created new scenario in repository
 Then I can see it in Relime
-
 
 @Critical @Test_1 @SC_694360849
 Scenario: Search books by publication year
@@ -33,5 +30,4 @@ Then 2 books should have been found
 And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
-
 

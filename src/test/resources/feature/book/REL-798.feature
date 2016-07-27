@@ -13,7 +13,6 @@ And description must be save rows before keyword BDD
 And this one scenario
 And with Tags
 
-
 @High @SC_672346322
 Scenario: second scenario for Jira check
 Given we have this story in Jira with this scenario
@@ -21,5 +20,4 @@ When we call relime
 Then the feature must be created on root with feature filename rel-798
 And this second scenario
 And with Tags
-
 

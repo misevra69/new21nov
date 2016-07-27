@@ -1,7 +1,7 @@
-@Feature_customerListFeature @sameTag
+@Feature_customerListFeature @sameTag @ST_250118404
 Feature: Customer list table
 
-@CustomerList @Search @High @sameTag
+@CustomerList @Search @High @sameTag @SC_176067499
 Scenario Outline: Search
 Given I`m on a homepage
 When I enter in a text field called 'Enter search text' following text "<value>"
@@ -11,10 +11,12 @@ Examples:
 |column|value|
 |Name|Logistics|
 
-@CustomerList @Pagination_001 @High @sameTag
+
+@CustomerList @Pagination_001 @High @sameTag @SC_171037004
 Scenario: Pagination_001 next page
 Given I`m on a homepage
 When I save values from columns
 And I press 'Next Page' button
 Then I see value '2' in page text field
 And columns values have changed
+
