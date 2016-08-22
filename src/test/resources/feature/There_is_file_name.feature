@@ -1,6 +1,6 @@
 @ST_925699155 @first-tag
 Feature: Some feature name
-I want to see new description
+There is some description
 
 Background: 
 Ddesjhkjsahckjahbgakjh
