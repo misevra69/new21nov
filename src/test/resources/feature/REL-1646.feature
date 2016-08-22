@@ -1,5 +1,5 @@
 @ST_925699155
-Feature: Update this name
+Feature: Some feature name
 I want to see new description
 
 Background: 
