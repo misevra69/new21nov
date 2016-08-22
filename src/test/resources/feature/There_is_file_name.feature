@@ -3,8 +3,8 @@ Feature: Some feature name
 There is some description
 
 Background: 
-Ddesjhkjsahckjahbgakjh
-Given jhgjgjnsdgs
+Background description
+Given some bg
 
 @thirdscenariotag @SC_1051814725
 Scenario: Third scenario
