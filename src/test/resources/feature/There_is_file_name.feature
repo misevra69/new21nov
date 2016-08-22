@@ -1,4 +1,4 @@
-@ST_925699155
+@ST_925699155 @first-tag
 Feature: Some feature name
 I want to see new description
 
