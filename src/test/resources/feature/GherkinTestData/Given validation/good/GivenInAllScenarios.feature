@@ -24,11 +24,14 @@ Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
 @Medium @Test_2 @SC_521580252
-Scenario Outline: Check another scenario
+Scenario Outline: Check another scenario ET
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
 
 Examples: 
 |one|two|three|
-|1|2|3|
+|one|2|3|
+|one|two|3|
+|1|two|three|
+|1|2|three|
 
