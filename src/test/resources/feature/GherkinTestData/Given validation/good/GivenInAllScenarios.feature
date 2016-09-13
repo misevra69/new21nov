@@ -9,7 +9,7 @@ When something
 Then something
 
 @SC_491958954
-Scenario: No background in dis scenario. Muahahahahahaha Oo
+Scenario: No background in dis scenario. Muahahahahahaha and lol. R u scared? I am... Oo
 When this scenario does not contain background
 Then I'm a litle happier cause I don't have to create more 1 step. Looool!11111adin
 
@@ -33,9 +33,10 @@ Examples:
 
 @SC_388903278
 Scenario: Abracadabra
-Given new scenario
-When some text
-Then some more text
+Given I am drunk in hlam
+When see some ugly girl on the street
+And I tell 'Abracadabra'
+Then I see tha this girl has gotten pretty
 
 @SC_490737061
 Scenario: Expiliarmuz, dirty Harry. This is da end!11
@@ -45,7 +46,7 @@ Then I have the second row of teeth is appeared in My dog's mouth
 
 @SC_499452759
 Scenario: TrahTebeDog!
-Given magic wand
+Given da magic wand
 When I poking around in my mouth with this wand
 Then I have the second row of teeth is appeared in My dog mouth
 
