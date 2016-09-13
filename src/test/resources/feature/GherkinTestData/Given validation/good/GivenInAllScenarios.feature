@@ -31,6 +31,7 @@ Examples:
 |two|three|1|
 |2|three|1|
 
+
 @SC_388903278
 Scenario: Abracadabra
 Given I am drunk in hlam
