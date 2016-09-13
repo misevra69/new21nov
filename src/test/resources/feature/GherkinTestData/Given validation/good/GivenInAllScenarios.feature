@@ -13,7 +13,7 @@ Scenario: Cheezeburger
 Given 1 bucks
 When I ask for 1 cheezeburger
 Then I get 1 cheezeburger
-And I am happy for 3 hours
+And I am happy for 3 hoours
 
 @SC_491958954
 Scenario: No background in dis scenario. Muahahahahahaha Oo
