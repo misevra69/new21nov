@@ -77,7 +77,7 @@ And my face is green like the Hulk has
 When I eat a lemon
 Then my face becomes red like Hellboy has
 When I see in the mirror
-Then I see horns on my head are grown
+Then I see horns on my head are grown. Two beatifull horns (mm)
 
 @SC_673929218
 Scenario: MoreNarkomanskiyScenario
