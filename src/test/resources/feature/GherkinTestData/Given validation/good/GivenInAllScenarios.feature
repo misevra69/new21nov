@@ -8,18 +8,8 @@ Given in this story background hasn't given keyword
 When something
 Then something
 
-@SC_491958954
-Scenario: No background in dis scenario. Muahahahahahaha Oo
-When this scenario does not contain background
-Then I'm a litle happier cause I don't have to create more 1 step. Looool!11111adin
-
-@Critical @Test_1 @SC_97189917
-Scenario: Check scenario
-Given this scenario must started from given keyword
-Then gherkin parser must be ok with parsing
-
-@Medium @Test_2 @SC_521580252
-Scenario Outline: Check another scenario EXAMPLE TABLE
+@SC_521580252 @Medium @Test_2
+Scenario Outline: Check scenarios with EXAMPLE TABLE
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
 
@@ -29,6 +19,16 @@ Examples:
 |one|two|3|
 |1|two|three|
 |1|2|three|
+
+@SC_491958954
+Scenario: No background in dis scenario. Muahahahahahaha Oo
+When this scenario does not contain background
+Then I'm a litle happier cause I don't have to create more 1 step. Looool!11111adin
+
+@Critical @Test_1 @SC_97189917
+Scenario: Check scenario
+Given this scenario must started from given keyword
+Then gherkin parser must be ok with parsing
 
 @SC_388903278
 Scenario: Abracadabra
@@ -85,4 +85,5 @@ Scenario: Cheezeburger
 Given 1 bucks
 When I ask for 1 cheezeburger
 Then I get 1 cheezeburger
+And I am happy for 3 hours
 
