@@ -9,7 +9,7 @@ When something
 Then something
 
 @SC_491958954
-Scenario: No background in dis scenario. Muahahahahahaha and lol. R u scared? I am... Oo
+Scenario: No background in dis scenario Oo
 When this scenario does not contain background
 Then I'm a litle happier cause I don't have to create more 1 step. Looool!11111adin
 
@@ -37,7 +37,7 @@ Scenario: Abracadabraaa
 Given I am drunk in hlam
 When see some ugly girl on the street
 And I tell 'Abracadabra'
-Then I see tha this girl has gotten pretty
+Then I see that this girl has gotten pretty
 
 @SC_490737061
 Scenario: Expiliarmuz, dirty Harry. This is da end!11
