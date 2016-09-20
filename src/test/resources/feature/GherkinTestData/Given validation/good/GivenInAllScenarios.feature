@@ -35,9 +35,9 @@ Examples:
 @SC_388903278
 Scenario: Abracadabraaa
 Given I am drunk in hlam
-When see some ugly girl on the street
+When see some girl on the street
 And I tell 'Abracadabra'
-Then I see that this girl has gotten pretty
+Then I see smthng
 
 @SC_490737061
 Scenario: Expiliarmuz, dirty Harry. This is da end!11
