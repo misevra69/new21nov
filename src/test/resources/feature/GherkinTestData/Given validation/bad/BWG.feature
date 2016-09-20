@@ -1,4 +1,4 @@
-@Story_Bad @ST_442089182 @New_tag
+@Story_Bad @New_tag @ST_442089182
 Feature: only one scenario
 Check Background
 

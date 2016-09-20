@@ -46,7 +46,7 @@ When I poking around in my mouth with this wand
 Then I have the second row of teeth is appeared in My dog's mouth
 
 @SC_499452759
-Scenario: TrahTebeDog!
+Scenario: What?
 Given da magic wand
 When I poking around in my mouth with this wand
 Then I have the second row of teeth is appeared in My dog mouth
