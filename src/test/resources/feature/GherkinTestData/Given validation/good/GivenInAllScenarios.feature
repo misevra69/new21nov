@@ -11,13 +11,13 @@ Then something
 @SC_491958954
 Scenario: No background in dis scenario Oo
 When this scenario does not contain background
-Then I'm a litle happier cause I don't have to create more 1 step. Looool!11111adin
+Then I'm a little happier cause I don't have to create more 1 step
 
 @Critical @Test_1 @SC_97189917
 Scenario: Check scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
-And what have i just wrote, hmmm??!11one
+And what have i just wrote??!11
 
 @Medium @Test_2 @SC_521580252
 Scenario Outline: Check scenarios with EXAMPLE TABLE
@@ -39,10 +39,10 @@ And I tell 'Abracadabra'
 Then I see smthng
 
 @SC_490737061
-Scenario: Expiliarmuz, dirty Harry. This is da end!11
-Given magic wand
-When I poking around in my mouth with this wand
-Then I have the second row of teeth is appeared in My dog's mouth
+Scenario: Oo
+Given hz
+When hz
+Then hz
 
 @SC_499452759
 Scenario: What?
@@ -51,17 +51,16 @@ When I poking around in my mouth with this wand
 Then I have the second row of teeth is appeared in My dog mouth
 
 @SC_550194205
-Scenario: Sereneven'kaya glazovikolupivatel'nitsa s poluvilimannimi nogkami
-Given magic wand
-When I poking around in my mouth with this wand
-Then I have the second row of teeth is appeared in My dog mouth
-And however I don't have any dog :(
+Scenario: Drunken master strikes back
+Given one thing
+When get t he second thing
+Then I have two two things
 
 @SC_584989916
-Scenario: Muhahhahahahaha!!1111111!111adinadin
-Given magic wand
-When I poking around in my mouth with this wand
-Then I have the second row of teeth is appeared in My dog mouth
+Scenario: Muhahhahahahaha!!
+Given mu
+When ah
+Then ahhaha
 
 @SC_618447007
 Scenario: The magic pop-koRn and the miracle
@@ -82,7 +81,7 @@ Then I see horns on my head are grown. Two beatifull horns (mm)
 Scenario: MoreNarkomanskiyScenario
 Given Leprekon
 When I see Leprekon
-Then I have full trousers of kirpi4i
+Then it's time to have some rest
 
 @SC_94449359
 Scenario: Cheezeburger
