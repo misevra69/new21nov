@@ -21,7 +21,7 @@ And what have i just wrote, hmmm??!11one
 
 @Medium @Test_2 @SC_521580252
 Scenario Outline: Check scenarios with EXAMPLE TABLE
-Given this scenario must started from given keyword
+Given this scenario must sd from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
 
 Examples: 
@@ -30,7 +30,6 @@ Examples:
 |two|3|one|
 |two|three|1|
 |2|three|1|
-
 
 @SC_388903278
 Scenario: Abracadabraaa
