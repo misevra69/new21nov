@@ -19,9 +19,9 @@ Then I see it in Relimedfgdfgdfg
 @second_scenario_tag @SC_252584997
 Scenario: Second scenario
 Some description
+#comment
 Given I created scenario
 Then I see it in Relime
-#comment
 
 @third_scenario_tag @SC_296219619
 Scenario Outline: Third scenario with ET
@@ -39,6 +39,7 @@ Examples:
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
 
 @fourth_scenario_tag @SC_303182158
 Scenario: Fourth scenario
