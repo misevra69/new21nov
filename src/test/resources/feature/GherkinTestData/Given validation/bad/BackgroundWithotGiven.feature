@@ -6,9 +6,12 @@ Feature: Given in only one scenario
 Scenario: Check scenario
 Given asd
 And kjsdfhk
+When 123
+Then 321
 
 @Medium @Test_2 @SC_442104782
 Scenario: Check another scenario
+Given asdasda
 When this scenario started without given keyword
-Then gherkin parser must return error
+Then gherkin parser must return errordsafdsfsdf
 
