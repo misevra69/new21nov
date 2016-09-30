@@ -9,7 +9,9 @@ And today is 2015-11-18
 @SC_720051439
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
+When 123
 And today is 2015-11-18
+Then 321
 
 @SC_678326609
 Scenario: 
