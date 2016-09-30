@@ -22,14 +22,15 @@ And what have i just wrote??!11
 @Medium @Test_2 @SC_521580252
 Scenario Outline: Check scenarios with EXAMPLE TABLE
 Given this scenario must sd from given keyword
-Then gherkin parser must be ok with parsing <two> <three> <one>
+Then gherkin parser must be ok with parsing <one> <two> <three>
 
 Examples: 
-|two|three|one|
-|2|3|one|
-|two|3|one|
-|two|three|1|
-|2|three|1|
+|one|two|three|
+|one|2|3|
+|one|two|3|
+|1|two|three|
+|1|2|three|
+
 
 
 @SC_388903278
