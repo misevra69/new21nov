@@ -1,7 +1,7 @@
 @Feature_customerListFeature @sameTag @ST_354953646
 Feature: Customer list table
 
-@High @sameTag @Search @CustomerList @SC_333933925
+@High @sameTag @CustomerList @Search @SC_333933925
 Scenario Outline: Search
 Given I`m on a homepage
 When I enter in a text field called 'Enter search text' following text "<value>"
