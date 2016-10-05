@@ -63,7 +63,7 @@ Scenario: 9
 123
 Given 123
 When 332
-Then 123dsa
+Then 123
 
 @123 @SC_452939465
 Scenario: 10
@@ -77,5 +77,61 @@ Scenario: 11
 123
 Given 123
 When 332
-Then 123ad
+Then 123
+
+@123 @SC_531536623
+Scenario: 12
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_571375793
+Scenario: 13
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_613993618
+Scenario: 14
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_589775169
+Scenario: 15
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_598088811
+Scenario: 16
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_567344526
+Scenario: 17
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_642899599
+Scenario: 18
+123
+Given 123
+When 332
+Then 123
+
+@123 @SC_610091874
+Scenario: 19
+123
+Given 123
+When 332
+Then 123
 
