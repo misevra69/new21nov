@@ -12,6 +12,7 @@ And name must be parsed from summary
 And description must be save rows before keyword BDD
 And this one scenario
 And with Tags
+And !#@!#!@#213122egdfhgfhgljdkfslf
 
 @SC_63198 @High
 Scenario: second scenario for Jira check
